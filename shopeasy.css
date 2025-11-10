@@ -2,17 +2,13 @@
     display: block;
     color:white ;
     background-color:black ;
-    text-align: center;
-    
+    text-align: center;   
 }
 .container{
     margin: auto;
     padding: 20px;
     background-color:#F2EEEE ;
-    max-width: 400px;
-    
-    
-    
+    max-width: 400px; 
 }
 .t-shirt{
     font-size: x-large;
@@ -39,6 +35,5 @@
     text-align: center;
     width: 100%;
     color: white;
-    height: 30px;
-    
+    height: 30px; 
 }
